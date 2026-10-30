@@ -49,7 +49,7 @@ An educational platform connecting academic pathways, exam preparation, adaptive
 
 A technology platform for structured astrological knowledge, birth-chart tools, and personalized educational experiences.
 
-**Status:** In Development · Next development session planned for November 2026
+**Status:** In Development · Coming Soon
 
 ### 04 — AI & AUTOMATION
 **Intelligent Workflows · Digital Innovation**
@@ -60,11 +60,14 @@ Exploring practical AI applications, automation, and intelligent digital systems
 
 ## 03 / EXPERTISE
 
-| ENGINEERING | TECHNOLOGY | LEADERSHIP |
-|---|---|---|
-| Control Engineering | AI Applications | Technical Project Management |
-| Energy Analytics | Workflow Automation | Digital Transformation |
-| Process Optimization | Product Development | Cross-functional Collaboration |
+**ENGINEERING**  
+Control Engineering · Energy Analytics · Process Optimization
+
+**TECHNOLOGY**  
+AI Applications · Workflow Automation · Product Development
+
+**LEADERSHIP**  
+Technical Project Management · Digital Transformation · Cross-functional Collaboration
 
 ---
 
