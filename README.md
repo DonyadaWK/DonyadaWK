@@ -49,7 +49,7 @@ An educational platform connecting academic pathways, exam preparation, adaptive
 
 A technology platform for structured astrological knowledge, birth-chart tools, and personalized educational experiences.
 
-**Status:** In Development
+**Status:** In Development · Next development session planned for November 2026
 
 ### 04 — AI & AUTOMATION
 **Intelligent Workflows · Digital Innovation**
