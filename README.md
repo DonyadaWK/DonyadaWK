@@ -22,23 +22,27 @@ I connect engineering, technology, and business to turn complex ideas into meani
 
 ## 02 / SELECTED PROJECTS
 
-### 01 — LUI TOGETHER
+### 01 — [LUI TOGETHER](https://luitogether.com/)
 **Sports Technology · Community · Event Management**
 
 A digital ecosystem for athletes, event organizers, coaches, and sports businesses.
 
 `Event Registration` · `Athlete Dashboards` · `Sports Community` · `AI Training`
 
-**Status:** In Development
+**Website:** [luitogether.com](https://luitogether.com/) · [GitHub project](https://github.com/DonyadaWK/luitogether)
 
-### 02 — DOLCHATA EDUCATION TOGETHER
+**Development:** Ongoing
+
+### 02 — [DOLCHATA EDUCATION TOGETHER](https://dolchataeducation.com/)
 **EdTech · AI · Personalized Learning**
 
 An educational platform connecting academic pathways, exam preparation, adaptive learning, and intelligent performance analytics.
 
 `Education Pathways` · `Mock Exams` · `Adaptive Learning` · `AI Analytics`
 
-**Status:** In Development
+**Website:** [dolchataeducation.com](https://dolchataeducation.com/)
+
+**Development:** Ongoing
 
 ### 03 — DOLCHATA
 **Astrology · Knowledge Systems · Digital Experiences**
