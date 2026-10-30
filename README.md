@@ -1,114 +1,75 @@
-<div align="center">⚡ DONYADA WK
+<div align="center">
 
-ENGINEERING INTELLIGENCE. BUILDING IMPACT.
+<img src="./donyada-profile-banner.png" alt="Donyada WK — AI, Digital Transformation and Engineering Portfolio" width="100%" />
 
-AI • DIGITAL TRANSFORMATION • ENGINEERING • PRODUCT INNOVATION
+### AI · DIGITAL TRANSFORMATION · ENGINEERING · PRODUCT INNOVATION
 
-""Typing SVG" (https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Turning+Complexity+Into+Clarity;Engineering+Ideas+Into+Reality;Building+Technology+With+Purpose)" (https://git.io/typing-svg)
+**Engineering Intelligence. Building Impact.**
 
----
-
-"THINK." → "DESIGN." → "BUILD." → "IMPACT."
-
-</div>01 / THE PERSON BEHIND THE CODE
-
-Hi, I'm Fern.
-
-I'm Donyada Weankhuntod, a Control Engineering graduate with professional experience in industrial digital transformation, energy analytics, automation, and cross-functional project management.
-
-I work at the intersection of Engineering × Artificial Intelligence × Business Strategy.
-
-My passion is transforming complex systems and ambitious ideas into technology that solves meaningful, real-world problems.
-
-IDENTITY       Engineering + Innovation
-FOCUS          AI / Automation / Digital Products
-BACKGROUND     Industrial Digital Transformation
-MISSION        Build technology that creates impact
-LOCATION       Thailand
-
-02 / WHAT I BRING TO THE TABLE
-
-DOMAIN| EXPERTISE
-⚙️ Engineering| Control Engineering, Industrial Systems
-🧠 AI & Automation| AI Applications, LLM Workflows, Process Automation
-📊 Analytics| Energy Analytics, Performance Optimization
-🚀 Transformation| Digital Strategy, Process Improvement
-🏗️ Product| Platform Design, Product Strategy
-🎯 Leadership| Technical Project Management, Cross-functional Execution
-
-03 / CURRENTLY BUILDING
-
-🏃 LUI TOGETHER
-
-SPORTS TECHNOLOGY × COMMUNITY × EVENT MANAGEMENT
-
-A sports ecosystem connecting athletes, event organizers, coaches, and service providers.
-
-"Event Registration" "Athlete Profiles" "Performance Analytics" "Community" "AI Training"
-
-STATUS: IN DEVELOPMENT
+</div>
 
 ---
 
-🎓 DOLCHATA EDUCATION TOGETHER
+## 01 / ABOUT ME
 
-EDTECH × AI × PERSONALIZED LEARNING
+Hi, I’m **Donyada Weankhuntod (Fern)** — a Control Engineering graduate from KMITL with First-Class Honors and an Academic Gold Medal.
 
-An education platform designed to make academic pathways, exam preparation, and learning analytics more accessible.
+My professional background spans **Industrial Digital Transformation, Energy Analytics, AI, Automation, and Technical Project Management**.
 
-"Education Pathways" "Mock Exams" "Adaptive Learning" "AI Analytics" "Student Dashboards"
-
-STATUS: IN DEVELOPMENT
+I connect engineering, technology, and business to turn complex ideas into meaningful digital products.
 
 ---
 
-✨ DOLCHATA
+## 02 / SELECTED PROJECTS
 
-ASTROLOGY × KNOWLEDGE SYSTEMS × TECHNOLOGY
+### 01 — LUI TOGETHER
+**Sports Technology · Community · Event Management**
 
-A digital platform exploring structured astrological knowledge, personalized interpretations, and educational experiences.
+A digital ecosystem for athletes, event organizers, coaches, and sports businesses.
 
-"Knowledge Systems" "Digital Platform" "AI Integration"
+`Event Registration` · `Athlete Dashboards` · `Sports Community` · `AI Training`
 
-STATUS: IN DEVELOPMENT
+**Status:** In Development
 
-04 / ENGINEERING MINDSET
+### 02 — DOLCHATA EDUCATION TOGETHER
+**EdTech · AI · Personalized Learning**
 
-«Great technology isn't just about writing code.
+An educational platform connecting academic pathways, exam preparation, adaptive learning, and intelligent performance analytics.
 
-It's about understanding the problem, designing the right system, and creating something that continues to deliver value.»
+`Education Pathways` · `Mock Exams` · `Adaptive Learning` · `AI Analytics`
 
-class EngineeringMindset:
-    def __init__(self):
-        self.curiosity = True
-        self.learning = "continuous"
-        self.focus = "real_world_impact"
+**Status:** In Development
 
-    def build(self, problem):
-        solution = understand(problem)
-        solution = design(solution)
-        return improve(solution)
+### 03 — DOLCHATA
+**Astrology · Knowledge Systems · Digital Experiences**
 
-05 / BEYOND THE TECHNOLOGY
+A technology platform for structured astrological knowledge, birth-chart tools, and personalized educational experiences.
 
-🎓 Control Engineering — KMITL
+**Status:** In Development
 
-🏅 First-Class Honors & Academic Gold Medal
+### 04 — AI & AUTOMATION
+**Intelligent Workflows · Digital Innovation**
 
-🏭 Industrial Digital Transformation & Energy Analytics
-
-💡 AI-Driven Innovation & Product Development
-
-🌏 Based in Thailand
+Exploring practical AI applications, automation, and intelligent digital systems.
 
 ---
 
-<div align="center">LET'S BUILD SOMETHING MEANINGFUL.
+## 03 / EXPERTISE
 
-Technology with purpose. Engineering with vision.
+| ENGINEERING | TECHNOLOGY | LEADERSHIP |
+|---|---|---|
+| Control Engineering | AI Applications | Technical Project Management |
+| Energy Analytics | Workflow Automation | Digital Transformation |
+| Process Optimization | Product Development | Cross-functional Collaboration |
 
-""GitHub" (https://img.shields.io/badge/GitHub-DonyadaWK-181717?style=for-the-badge&logo=github)" (https://github.com/DonyadaWK)
+---
 
-<sub>© 2026 Donyada Weankhuntod</sub>
+<div align="center">
+
+### THINK → DESIGN → BUILD → IMPACT
+
+**Technology with purpose. Engineering with vision.**
+
+[GitHub](https://github.com/DonyadaWK) · Thailand
 
 </div>
