@@ -44,12 +44,14 @@ An educational platform connecting academic pathways, exam preparation, adaptive
 
 **Development:** Ongoing
 
-### 03 — DOLCHATA
+### 03 — [DOLCHATA](https://dolchata.com/)
 **Astrology · Knowledge Systems · Digital Experiences**
 
-A technology platform for structured astrological knowledge, birth-chart tools, and personalized educational experiences.
+A digital platform for structured astrological knowledge, birth-chart tools, and personalized experiences.
 
-**Status:** In Development · Coming Soon
+**Website:** [dolchata.com](https://dolchata.com/)
+
+**Status:** Website Live · Ongoing Development
 
 ### 04 — AI & AUTOMATION
 **Intelligent Workflows · Digital Innovation**
